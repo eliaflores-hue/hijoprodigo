@@ -92,7 +92,7 @@ while jugador.dinero > 0:
     jugador.gastar_todo() 
     jugador.reflexionar()
     
-print("El dinero se acabo")              
+print("no hay dinero")              
 print("Su nivel de arrepentimiento esta en :" , jugador.arrepentimiento)      
                 
             
